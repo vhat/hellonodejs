@@ -1,6 +1,6 @@
 {
     "name":                 "bluemix-todo-apps-node",
-    "main":                 "./lib/server",
+    "main":                 "node app.js",
     "description":          "node server for TodoMVC using CouchDB for storage",
     "version":              "0.1.0",
     "dependencies": {
