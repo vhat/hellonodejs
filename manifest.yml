@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: eu-gb.mybluemix.net
-  name: deploypipelinetestapp-jrs
-  host: deploypipelinetestapp-jrs
+  domain: mybluemix.net
+  name: hellocapgemininorway
+  host: hellocapgemininorway
   disk_quota: 1024M
