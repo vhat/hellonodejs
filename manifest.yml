@@ -5,4 +5,4 @@ applications:
   domain: mybluemix.net
   name: hellocapgemininorway
   host: hellocapgemininorway
-  disk_quota: 1024Mdsaf
+  disk_quota: 1024M
